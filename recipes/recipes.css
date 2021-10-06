@@ -1,0 +1,33 @@
+.modified {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.modified {
+    margin: auto;
+    border-style: inset;
+    border-width: 10px;
+    border-color: rgb(160, 152, 152);
+
+}
+
+h1 {
+    font-family:cursive, Geneva, Tahoma, sans-serif;
+}
+
+.header1{
+    text-align: center;
+    border-style: inset;
+    border-width: 10px;
+    border-color: rgb(160, 152, 152);
+;
+}
+
+.theme{
+    background-color: rgb(218, 172, 104);
+    padding: 0%;
+}
+
