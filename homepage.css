@@ -45,3 +45,8 @@ h1 {
     height: auto;
     width: 350;
 }
+
+button {
+    display: block;
+    margin: auto;
+}
